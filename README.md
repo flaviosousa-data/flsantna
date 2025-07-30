@@ -1,6 +1,6 @@
 ### Hello there!!
 
-I am Flávio Sousa, a Data Scientist in pursuit for knowledge. Be welcome to check more projects.
+I am Flávio Sousa, a Data Scientist. Be welcome to check more projects.
 
 What do i code.
 
